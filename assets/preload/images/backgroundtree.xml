@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TreeStart_Screen_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BackGround instância 10000" x="10" y="10" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10001" x="10" y="750" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10002" x="10" y="750" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10003" x="10" y="1490" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10004" x="10" y="1490" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10005" x="10" y="2230" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10006" x="10" y="2230" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10007" x="10" y="2230" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10008" x="10" y="2230" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10009" x="10" y="1490" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10010" x="10" y="1490" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10011" x="10" y="750" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10012" x="10" y="750" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10013" x="10" y="10" width="1288" height="730"/>
+	<SubTexture name="BackGround instância 10014" x="10" y="10" width="1288" height="730"/>
+</TextureAtlas>
